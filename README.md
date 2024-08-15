@@ -7,7 +7,7 @@ It also depends on `beautifulsoup4` and `requests` so `pip install` them.
 Like I said, Im lazy and this isn't packaged nicely or anything.
 
 ## Installation
-Download `youtube_rss_feeds.py`.
+[Download](https://github.com/jll123567/Youtube-RSS-Feeds/releases/download/v0.0.1/youtube_rss_feeds.py) `youtube_rss_feeds.py`.
 
 ## Usage
 Assuming that it runs on your machine...
